@@ -1,0 +1,132 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    width: 100vw;
+    display: flex; 
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+header {
+    background-image: url(../images/header_bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vw;
+    padding: 20px 90px;
+}
+
+h1 {
+    color: white;
+    font-weight: 800; 
+    font-size: 24px;
+    text-align: left;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    margin-top: 145px; 
+}
+
+.get-it-now {
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 5px;
+    background-color: #f9e42e;
+    text-decoration: none;
+    color: #033048;
+    padding: 5px 25px;
+    margin: 0 auto;
+}
+
+main {
+    background: #f0efef;
+    color: #606161;
+    text-align: left;
+    height: 40vw;
+    padding: 25px 250px 25px 90px; 
+    
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #033048;
+}
+
+p ul{
+    font-size: 13px;
+    font-weight: 300;
+    color: #606161;
+}
+
+.testimonial {
+    background-image: url(../images/testimonial_bg.jpg);
+    opacity: 0.80;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20vw;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 30px 170px 55px 170px;
+}
+
+blockquote {
+    font-size: 18px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+cite {
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+aside {
+    background-color: #f9e42e;
+    display: flex; 
+    justify-content: center;
+}
+
+.sign-up {
+    font-size: 12px;
+    font-weight: 800;
+    color: white;
+    background-color: #033048;
+    text-decoration: none;
+    padding: 5px 30px;
+    border-radius: 5px;
+    margin: 17px;
+}
+footer {
+    color: white;
+    background-color: #606161;
+    height: 30vw; 
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #f9e42e;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0 25px 0 0; 
+}
+
+nav li {
+    display: inline; 
+    padding-left: 20px; 
+}
+
+small {
+    font-size: 9px;
+    font-weight: 600;
+    text-align: end;
+}
+
+
